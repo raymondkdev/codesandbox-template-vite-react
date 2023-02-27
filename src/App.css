@@ -39,3 +39,17 @@
 .read-the-docs {
   color: #888;
 }
+
+.todos {
+}
+
+.todo {
+  /* display: flex; */
+}
+
+.todo__id {
+  font-weight: 700;
+}
+
+.todo__title {
+}
